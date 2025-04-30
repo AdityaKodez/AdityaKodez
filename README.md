@@ -47,7 +47,5 @@
   <!-- Add more social links as needed -->
 </p>
 
-<p>
-  https://gpvc.arturio.dev/AdityaKodez
-</p>
+![Profile views](https://gpvc.arturio.dev/AdityaKodez)
 
