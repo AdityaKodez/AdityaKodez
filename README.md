@@ -47,12 +47,7 @@
   <!-- Add more social links as needed -->
 </p>
 
----
-
-### 📌 Pinned Projects
-
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=AdityaKodez&repo=your-repo-name)](https://github.com/AdityaKodez/your-repo-name)
-
-
----
+<p>
+  https://gpvc.arturio.dev/AdityaKodez
+</p>
 
