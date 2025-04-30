@@ -35,12 +35,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AdityaKodez&show_icons=true&locale=en" alt="AdityaKodez" />
 </p>
 
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30"/></a>
-</p>
 
