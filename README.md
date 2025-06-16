@@ -9,11 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing my studies in [Your Major] at [Your University].
-- 🌱 I’m exploring the realms of [Your Interests, e.g., Web Development, Data Science].
-- 💬 Ask me about anything related to [Your Expertise Areas].
-- 📫 How to reach me: [Your Email Address].
-- ⚡ Fun fact: [A quirky or interesting fact about you].
+- 🎓 I'm currently pursuing my studies in 10th Grade
+- 🌱 I’m exploring the realms of Web development.
+- 📫 How to reach me:ak.cllases@gmail.com.
 
 ---
 
