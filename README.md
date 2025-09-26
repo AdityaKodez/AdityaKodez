@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently pursuing my studies in 10th Grade
-- 🌱 I’m exploring the realms of Web development.
+- 🌱 Building some projects in Next js
 - 📫 How to reach me:ak.cllases@gmail.com.
 
 ---
