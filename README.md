@@ -1,67 +1,108 @@
 <!-- ================================================= -->
-<!--          AdityaKodez – GitHub Portfolio            -->
+<!--            AdityaKodez – GitHub README             -->
 <!-- ================================================= -->
 
-# 👋 Hi, I’m **Aditya** (`@AdityaKodez`)
-**Student • Web Developer • SaaS-Builder**  
-I build things with code. I ship projects. I learn backend next.
+# Hi, I’m Aditya (`@AdityaKodez`)
+Student. Web developer. SaaS builder.
+
+I build products end-to-end and ship them.  
+I care about systems, constraints, and things that hold up after launch.
 
 ---
 
-## 🔭 What I’m working on  
-- A drag-and-drop web-builder using Next.js 15 + Tailwind CSS + ShadCN UI  
-- A SaaS tool for **idea validation + road-mapping + prioritization**  
-- Building backend skills: Node.js, Express, MongoDB for my next full-stack applications
+## What I’m building now
+
+- **Zeno** — a productive practice system  
+  A full-stack SaaS focused on disciplined, repeatable improvement.  
+  Built as a long-term product, not a demo.
+
+- Improving backend depth  
+  Better data models, cleaner queries, stricter auth flows, fewer footguns.
+
+- Shipping less, finishing more  
+  Cutting features that don’t move metrics. Tightening the loop.
 
 ---
 
-## 🧠 Skills & Technologies  
-| Frontend                         | Backend / Databases           | Tools & Misc                     |
-|----------------------------------|-------------------------------|----------------------------------|
-| HTML • CSS • JavaScript • React  | Node.js • Express • MongoDB   | Git • VSCode • Docker (basic)   |
-| Next.js 15 • TailwindCSS         | Prisma • Auth.js • Google Sign-In | Linux CLI • REST APIs • SaaS concepts |
+## Tech I actually use
+
+**Frontend**
+- Next.js (App Router)
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+
+**Backend**
+- tRPC
+- Prisma
+- PostgreSQL
+- Auth.js
+- REST where it makes sense
+
+**Product & Infra**
+- Git
+- Docker (working level)
+- Linux
+- Auth, logging, metrics, feature flags
+- Modern SaaS patterns
+
+If it’s not here, I’m probably not using it seriously.
 
 ---
 
-## 📂 Featured Projects  
-Here are a few highlights. More on my GitHub repositories.  
-- **NoFap Tracker** — logging, authentication, streak tracking, awards & music features.  
-- **Drag-&-Drop Web Builder** — Using Next.js 15: components are drag-and-droppable, inline text editable, with live preview.  
-- **Idea Validation SaaS MVP** — Tool to validate startup ideas quickly, build road-maps, prioritise features.
+## Selected projects
+
+### Zeno — Productive practice system (active)
+Full-stack SaaS built to enforce consistency and track progress over time.  
+Includes authentication, logging, streaks, rewards, analytics, and structured workflows.  
+Designed, built, and maintained as a real product with iteration and metrics.
+
+**Stack:** Next.js, TypeScript, tRPC, Prisma, PostgreSQL, Auth.js
 
 ---
 
-## 📫 Get in Touch  
-- GitHub: [github.com/AdityaKodez](https://github.com/AdityaKodez)  
-- LinkedIn: [Insert your LinkedIn link]  
-- Twitter/X: [Insert your X handle]  
-- Email: [your.email@example.com]
+### Web Builder (editor experiment)
+Framer-style drag-and-drop editor built with Next.js 15.  
+Component registry, editable canvas, inline text editing, live preview.
+
+The hard problems here were editor state, UX constraints, and performance — not UI polish.
 
 ---
 
-## 📊 GitHub Stats  
-[![Aditya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaKodez&show_icons=true&theme=default)](https://github.com/AdityaKodez)  
+Some projects are private or mid-iteration.  
+I don’t publish half-done ideas to inflate activity.
 
 ---
 
-## 🎯 Why I code  
-Because building something from zero to live teaches you more than any textbook.  
-Because every bug forces you to understand one more layer.  
-Because SaaS gives you the chance to *own* something—not just work on someone else’s.
+## How I work
+
+- Ship first, polish after
+- Prefer boring, proven tech
+- Avoid premature abstraction
+- Measure before adding features
+- Kill weak ideas early
 
 ---
 
-### 📌 Quick Facts  
-- Role: Student & Self-taught developer  
-- Current focus: Backend systems + scalable SaaS architecture  
-- Next milestone: Launch MVP of Idea Validation SaaS in 2025  
+## Contact
+
+- GitHub: https://github.com/AdityaKodez  
+- X (Twitter): https://x.com/AdiKodez  
+---
+
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaKodez&show_icons=true&theme=default)
 
 ---
 
-> **“Code is like writing magic spells that machines obey.”**  
-> – Me, writing this README
+## Why I build
+
+Because ownership forces clarity.  
+Because bugs teach faster than tutorials.  
+Because finished products matter more than clever code.
 
 ---
 
-*Last updated: 2025-11-24*
-
+**Last updated:** 2026
