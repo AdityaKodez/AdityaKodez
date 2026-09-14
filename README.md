@@ -1,44 +1,176 @@
-# Aditya
+<div align="center">
 
-**@AdityaKodez**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=hey%2C+I'm+Aditya+%F0%9F%91%8B;full-stack+dev+%26+SaaS+builder;I+ship+things+that+stay+shipped." alt="typing intro" />
 
-Student
-Web Developer
-SaaS Builder
+<p>
+  <a href="https://akoder.xyz"><img src="https://img.shields.io/badge/Portfolio-akoder.xyz-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://x.com/AdiKodez"><img src="https://img.shields.io/badge/X-@AdiKodez-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://github.com/AdityaKodez?tab=followers"><img src="https://img.shields.io/github/followers/AdityaKodez?style=for-the-badge&logo=github&logoColor=white&color=181717&label=Followers" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AdityaKodez&style=for-the-badge&color=8B5CF6&label=Profile+Views" alt="Profile views" />
+</p>
 
----
-
-## About
-
-I build end-to-end products.
-Focus: systems that continue working after launch.
+</div>
 
 ---
 
-## Stack
+## 🧠 About
+
+```ts
+const aditya = {
+  role:    ["Student", "Web Developer", "SaaS Builder"],
+  doing:   "shipping end-to-end products, solo",
+  loves:   "type-safe stacks, fast feedback loops, boring tech that works",
+  focus:   "systems that keep working after launch day",
+  openTo:  ["collabs", "open source", "cool ideas"],
+};
+```
+
+I build the whole thing — auth, db, payments, jobs, UI — and then I make sure it survives real users.
+
+---
+
+## 🛠️ Stack
 
 **Frontend**
-Next.js · React · TypeScript · Tailwind · shadcn/ui
 
-**Backend**
-tRPC · Prisma · PostgreSQL · Better Auth
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
+
+**Backend & Data**
+
+<p>
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+**Tooling & Ship**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 ---
 
-## Principles
+## 🚀 Featured Work
 
-Ship fast
-Use proven tech
-No premature abstraction
-Measure first
-Kill weak ideas
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [gridly](https://github.com/AdityaKodez/gridly)
+
+The open-source, **AI-native Next.js SaaS starter**. Auth, database, payments, AI chat, background jobs — fully wired.
+
+<p>
+  <img src="https://img.shields.io/github/stars/AdityaKodez/gridly?style=flat-square&color=8B5CF6&label=stars" alt="stars" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <a href="https://gridly.akoder.xyz"><img src="https://img.shields.io/badge/live-demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="live" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [adityaojha](https://github.com/AdityaKodez/adityaojha)
+
+My portfolio & home on the internet — built with Next.js, obsessed over the details.
+
+<p>
+  <img src="https://img.shields.io/github/stars/AdityaKodez/adityaojha?style=flat-square&color=8B5CF6&label=stars" alt="stars" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <a href="https://akoder.xyz"><img src="https://img.shields.io/badge/live-akoder.xyz-000000?style=flat-square&logo=vercel&logoColor=white" alt="live" /></a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [better-auth-prisma-starter](https://github.com/AdityaKodez/better-auth-prisma-starter)
+
+Drop-in starter wiring **Better Auth + Prisma** so you can skip the boilerplate and start building.
+
+<p>
+  <img src="https://img.shields.io/github/stars/AdityaKodez/better-auth-prisma-starter?style=flat-square&color=8B5CF6&label=stars" alt="stars" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <a href="https://better-auth-prisma-starter.vercel.app"><img src="https://img.shields.io/badge/live-demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="live" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ [commit-atlas](https://github.com/AdityaKodez/commit-atlas)
+
+Turning commit history into something you can actually *read*. Visualize how a repo really grew.
+
+<p>
+  <img src="https://img.shields.io/github/stars/AdityaKodez/commit-atlas?style=flat-square&color=8B5CF6&label=stars" alt="stars" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <a href="https://commit-atlas-kappa.vercel.app"><img src="https://img.shields.io/badge/live-demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="live" /></a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Contact
+## 📊 Stats
 
-GitHub
-https://github.com/AdityaKodez
+<div align="center">
 
-X
-https://x.com/AdiKodez
+<p>
+  <img src="https://img.shields.io/github/stars/AdityaKodez?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&label=Total%20Stars" alt="Total stars" />
+  <img src="https://img.shields.io/github/followers/AdityaKodez?style=for-the-badge&logo=github&logoColor=white&color=181717&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/Primary_Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Primary language" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=AdityaKodez&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideNums=8B5CF6&dates=8B949E" alt="GitHub streak stats" />
+
+<br /><br />
+
+<img src="https://ghchart.rshah.org/8B5CF6/AdityaKodez" alt="AdityaKodez's contribution chart" width="98%" />
+
+</div>
+
+---
+
+## 🧭 Principles
+
+> **Ship fast.** Momentum beats perfection.
+>
+> **Use proven tech.** Boring stack, interesting product.
+>
+> **No premature abstraction.** Write it twice before you write it once.
+>
+> **Measure first.** Opinions are cheap, data isn't.
+>
+> **Kill weak ideas.** Fast. Without ego.
+
+---
+
+<div align="center">
+
+### 💬 Let's build something
+
+<p>
+  <a href="https://x.com/AdiKodez"><img src="https://img.shields.io/badge/DM_me_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://akoder.xyz"><img src="https://img.shields.io/badge/Visit_my_site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/AdityaKodez?tab=repositories"><img src="https://img.shields.io/badge/Browse_my_repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+</p>
+
+<sub><i>still building. always shipping.</i></sub>
+
+</div>
