@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=hey%2C+I'm+Aditya+%F0%9F%91%8B;full-stack+dev+%26+SaaS+builder;I+ship+things+that+stay+shipped." alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=hey%2C+I'm+Aditya+%F0%9F%91%8B;full-stack+dev+%26+SaaS+builder;I+ship+things+that+stay+shipped." alt="typing intro" />
 
 <p>
-  <a href="https://akoder.xyz"><img src="https://img.shields.io/badge/Portfolio-akoder.xyz-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://akoder.xyz"><img src="https://img.shields.io/badge/Portfolio-akoder.xyz-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://x.com/AdiKodez"><img src="https://img.shields.io/badge/X-@AdiKodez-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/AdityaKodez?tab=followers"><img src="https://img.shields.io/github/followers/AdityaKodez?style=for-the-badge&logo=github&logoColor=white&color=181717&label=Followers" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AdityaKodez&style=for-the-badge&color=8B5CF6&label=Profile+Views" alt="Profile views" />
+  <a href="https://github.com/AdityaKodez?tab=followers"><img src="https://img.shields.io/github/followers/AdityaKodez?style=for-the-badge&logo=github&logoColor=white&color=000000&label=Followers" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AdityaKodez&style=for-the-badge&color=000000&label=Profile+Views" alt="Profile views" />
 </p>
 
 </div>
@@ -64,84 +64,21 @@ I build the whole thing — auth, db, payments, jobs, UI — and then I make sur
 
 ---
 
-## 🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ [gridly](https://github.com/AdityaKodez/gridly)
-
-The open-source, **AI-native Next.js SaaS starter**. Auth, database, payments, AI chat, background jobs — fully wired.
-
-<p>
-  <img src="https://img.shields.io/github/stars/AdityaKodez/gridly?style=flat-square&color=8B5CF6&label=stars" alt="stars" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <a href="https://gridly.akoder.xyz"><img src="https://img.shields.io/badge/live-demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="live" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [adityaojha](https://github.com/AdityaKodez/adityaojha)
-
-My portfolio & home on the internet — built with Next.js, obsessed over the details.
-
-<p>
-  <img src="https://img.shields.io/github/stars/AdityaKodez/adityaojha?style=flat-square&color=8B5CF6&label=stars" alt="stars" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <a href="https://akoder.xyz"><img src="https://img.shields.io/badge/live-akoder.xyz-000000?style=flat-square&logo=vercel&logoColor=white" alt="live" /></a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 [better-auth-prisma-starter](https://github.com/AdityaKodez/better-auth-prisma-starter)
-
-Drop-in starter wiring **Better Auth + Prisma** so you can skip the boilerplate and start building.
-
-<p>
-  <img src="https://img.shields.io/github/stars/AdityaKodez/better-auth-prisma-starter?style=flat-square&color=8B5CF6&label=stars" alt="stars" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <a href="https://better-auth-prisma-starter.vercel.app"><img src="https://img.shields.io/badge/live-demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="live" /></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ [commit-atlas](https://github.com/AdityaKodez/commit-atlas)
-
-Turning commit history into something you can actually *read*. Visualize how a repo really grew.
-
-<p>
-  <img src="https://img.shields.io/github/stars/AdityaKodez/commit-atlas?style=flat-square&color=8B5CF6&label=stars" alt="stars" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <a href="https://commit-atlas-kappa.vercel.app"><img src="https://img.shields.io/badge/live-demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="live" /></a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 Stats
 
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/github/stars/AdityaKodez?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&label=Total%20Stars" alt="Total stars" />
-  <img src="https://img.shields.io/github/followers/AdityaKodez?style=for-the-badge&logo=github&logoColor=white&color=181717&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AdityaKodez?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&color=000000&label=Total%20Stars" alt="Total stars" />
+  <img src="https://img.shields.io/github/followers/AdityaKodez?style=for-the-badge&logo=github&logoColor=white&color=000000&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/badge/Primary_Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Primary language" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=AdityaKodez&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideNums=8B5CF6&dates=8B949E" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=AdityaKodez&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&currStreakNum=000000&sideNums=000000&sideLabels=000000&stroke=000000&dates=6E7681" alt="GitHub streak stats" />
 
 <br /><br />
 
-<img src="https://ghchart.rshah.org/8B5CF6/AdityaKodez" alt="AdityaKodez's contribution chart" width="98%" />
+<img src="https://ghchart.rshah.org/000000/AdityaKodez" alt="AdityaKodez's contribution chart" width="98%" />
 
 </div>
 
@@ -167,8 +104,8 @@ Turning commit history into something you can actually *read*. Visualize how a r
 
 <p>
   <a href="https://x.com/AdiKodez"><img src="https://img.shields.io/badge/DM_me_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://akoder.xyz"><img src="https://img.shields.io/badge/Visit_my_site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://github.com/AdityaKodez?tab=repositories"><img src="https://img.shields.io/badge/Browse_my_repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+  <a href="https://akoder.xyz"><img src="https://img.shields.io/badge/Visit_my_site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/AdityaKodez?tab=repositories"><img src="https://img.shields.io/badge/Browse_my_repos-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
 </p>
 
 <sub><i>still building. always shipping.</i></sub>
