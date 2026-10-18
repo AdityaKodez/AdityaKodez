@@ -5,5 +5,6 @@ Hey, I'm Aditya. I build SaaS products, make little things for the web, and shar
 Mostly working with React, Next.js, and TypeScript.
 
 [Website](https://akoder.xyz) · [Components](https://akoder.xyz/components) · [X](https://x.com/AdiKodez) · [Email](mailto:adityakodez@gmail.com)
+
 <sub><i>still building. always shipping.</i></sub>
 
