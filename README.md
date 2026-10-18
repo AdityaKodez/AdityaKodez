@@ -1,4 +1,6 @@
-[![Aditya Ojha](https://akoder.xyz/opengraph-image)](https://akoder.xyz)
+<a href="https://akoder.xyz">
+  <img src="https://akoder.xyz/opengraph-image" alt="Aditya Ojha" width="600" />
+</a>
 
 Hey, I'm Aditya. I build SaaS products, make little things for the web, and share what I can learn along the way.
 
